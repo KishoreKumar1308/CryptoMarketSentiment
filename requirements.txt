@@ -1,0 +1,5 @@
+gnews
+numpy
+pandas
+snscrape
+flask
